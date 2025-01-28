@@ -41,28 +41,19 @@ Transforming ideas into innovative solutions at the intersection of AI, data ana
 
 #### 📊 GitHub Stats:
 
+<!--
 ![](https://github-readme-stats.vercel.app/api?username=dawoodcheema&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dawoodcheema&theme=default&hide_border=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dawoodcheema&theme=default&hide_border=false)<br/> -->
+
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawoodcheema&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawoodcheema&theme=radical&hide_border=false) -->
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dawoodcheema&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 #### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=dawoodcheema&limit=5&theme=default&combine_all_yearly_contributions=true)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dawoodcheema&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dawoodcheema&theme=radical&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dawoodcheema&theme=radical&hide_border=false&layout=compact)
-
----
-
-## 🔝 Top Contributed Repositories
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=dawoodcheema&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
 #### 💰 Support My Work
 
-[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dawoodcheema) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/dawoodcheema)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=flat&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/dawoodcheema) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=&logo=paypal&logoColor=white)](https://paypal.me/dawoodcheema)
