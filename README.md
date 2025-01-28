@@ -11,13 +11,9 @@ Transforming ideas into innovative solutions at the intersection of AI, data ana
 - Crafting **scalable software** for enterprise-level applications.
 - Empowering businesses globally with cutting-edge technology.
 
----
-
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/) [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?&logo=GitHub&logoColor=white)](https://github.com/) [![Kaggle](https://img.shields.io/badge/Kaggle-%23056CB5.svg?&logo=Kaggle&logoColor=white)](https://www.kaggle.com/) [![ResearchGate](https://img.shields.io/badge/ResearchGate-%2300CCBB.svg?logo=ResearchGate&logoColor=white)](https://www.researchgate.net/) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)](https://medium.com/) [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-%23FE7A16.svg?logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/) [![Dribbble](https://img.shields.io/badge/Dribbble-%23EA4C89.svg?logo=Dribbble&logoColor=white)](https://dribbble.com/) [![Behance](https://img.shields.io/badge/Behance-%231766FF.svg?logo=Behance&logoColor=white)](https://www.behance.net/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dawood-cheema) [![Dev](https://img.shields.io/badge/Dev.to-%230A0A0A.svg?logo=Dev.to&logoColor=white)](https://dev.to/)
-
----
 
 ### 💻 Tech Stack
 
@@ -37,13 +33,6 @@ Transforming ideas into innovative solutions at the intersection of AI, data ana
 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) [![Flask](https://img.shields.io/badge/Flask-%23000A0B.svg?style=flat&logo=Flask&logoColor=white)](https://flask.palletsprojects.com/)
 [![Express](https://img.shields.io/badge/Express-%23404D59.svg?style=flat&logo=Express&logoColor=white)](https://expressjs.com/) [![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat&logo=Next.js&logoColor=white)](https://nextjs.org/) [![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat&logo=React&logoColor=white)](https://reactjs.org/)
-
-#### **Databases**
-
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=flat&logo=mariadb&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/Postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Amazon DynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white)
 
 #### **Databases**
 
