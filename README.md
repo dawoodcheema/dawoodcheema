@@ -43,7 +43,7 @@ Transforming ideas into innovative solutions at the intersection of AI, data ana
 
 Explore our featured projects categorized below to see how Data Function Inc. can make a difference:
 
-#### Data Science
+#### Data Science & AI
 
 - **Object Detection and Recognition**
 
@@ -53,18 +53,33 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
      - **Image and Video Processing**: Detect objects in static images and real-time video frames.
      - **Customizable Thresholds**: Configurable IoU and confidence thresholds for more accurate detections.
      - **Real-Time Processing**: Supports both batch image detection and real-time video processing.
-       <div >
-           <a href="https://github.com/dawoodcheema/object-detection-and-recognition.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
-           <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
-           </div>
+        <div >
+            <a href="https://github.com/dawoodcheema/object-detection-and-recognition.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
+            <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+            </div>
 
-       <div >
+        <div >
 
-       <div align="center">
-       <img src="./assets/data-science/object-detection/object-detections.gif" width='100%' />
-       </div>
+        <div align="center">
+        <img src="./assets/data-science/object-detection/object-detections.gif" width='100%' />
+        </div>
+       <br>
 
-- **Clustering**
+- **Forecasting & Time Series Analysis**
+
+  1. [LSTM Multivariate Stock Price Prediction](https://github.com/dawoodcheema/lstm-multivariate-stock-price-prediction)
+     A deep learning project using LSTM for multivariate time series analysis to predict Google stock prices. Trained on five years of historical data, the model forecasts stock performance over a two-month period.
+     <div >
+      <a href="https://github.com/dawoodcheema/object-detection-and-recognition.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
+      <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+      </div>
+
+     Google stock price predictions with LSTM:  
+     ![Stock Price Prediction](https://raw.githubusercontent.com/sinanw/lstm-stock-price-prediction/main/reports/figures/google_stock_price_predictions.png)
+     Google stock price predictions (last 50 financial days):  
+     ![Stock Price Prediction Last 50 Days](https://raw.githubusercontent.com/sinanw/lstm-stock-price-prediction/main/reports/figures/google_stock_price_predictions_last_50d.png)
+
+- **Clustering & Unsupervised Learning**
 
   1. [Electricity Consumption Behavior Analysis](https://github.com/dawoodcheema/electricity-consumption-behavior-analysis.git)
      Analyzed electricity demand data from over 370 clients, using clustering algorithms (KMeans, Agglomerative) to uncover usage patterns. The project involved data cleaning, feature engineering, and visualizing consumption behaviors, which provided valuable insights for energy-saving strategies.
@@ -73,9 +88,9 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
             <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
             </div>
       <div >
-      **** 
+      <br>
      <div align="center">
-      <span>
+      <!-- <span>
       <img src="assets/data-science/clustering/electricity-consumption-behavior-analysis/c1-clients.png" alt="Logo" width="45%" height="150">
       <span>
       <span>
@@ -87,7 +102,7 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
       <span>  
       <span>
       <img src="assets/data-science/clustering/electricity-consumption-behavior-analysis/c2-days.png" alt="Logo" width="45%" height="150">
-      <span>
+      <span> -->
 
       <span>
       <img src="assets/data-science/clustering/electricity-consumption-behavior-analysis/c.png" alt="Logo" width="90%" height="250">
@@ -96,6 +111,19 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
       <img src="assets/data-science/clustering/electricity-consumption-behavior-analysis/clustering.png" alt="Logo" width="90%" height="250">
 
       </div>
+
+- **Predictive Modeling**
+
+  1.  [Heart Disease Prediction](https://github.com/dawoodcheema/heart-disease-prediction.git)
+      A machine learning model that predicts the likelihood of heart disease based on patient data. Implements logistic regression, decision trees, and neural networks for classification.
+
+        <div >
+              <a href="https://github.com/dawoodcheema/heart-disease-prediction.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
+              <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+              </div>
+        <div >
+
+      ![Heart Disease Prediction Scores](assets/data-science/predictive-modeling/heart-prediction/output.png)
 
 <!-- - **Natural Lanuage Processing**
 
@@ -117,7 +145,7 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
 
 - **Reinforcement learning**
 
-  1. [♟️Chess Engine: AI Mastery with Reinforcement Learning](https://github.com/dawoodcheema/chess-engine)
+  1. [Chess Engine: AI Mastery with Reinforcement Learning](https://github.com/dawoodcheema/chess-engine)
 
      Build an AI chess engine that learns strategies through **self-play** and **reinforcement learning**.
 
@@ -162,18 +190,15 @@ Have extensive experience in the following tools and services:
 
 - ##### Power BI Projects
 
-  - **Sales Dashboard**
+  1. [Sales Dashboard](https://github.com/dawoodcheema/sale-dashboard)
+     An interactive, real-time sales dashboard providing in-depth analysis, customer basket insights, and performance tracking.
 
-    - Description: A Power BI dashboard displaying sales performance metrics.
-    <!-- - Features: Interactive charts, filters for regions and time periods, and monthly growth analysis.
-    - [View Project](link-to-project)
-    - Screenshot: ![Power BI Dashboard](screenshot-link) -->
-
-  - **Employee Performance Tracker**
-    - Description: Power BI report to track employee performance using various KPIs.
-    <!-- - Features: Visuals like bar charts, scatter plots, and trend lines to visualize employee data over time.
-    - [View Project](link-to-project)
-    - Screenshot: ![Employee Performance](screenshot-link) -->
+     ✅ Real-time sales analytics  
+     ✅ Customer & store basket analysis  
+     ✅ Interactive filter pane for seamless exploration  
+     ✅ Detailed product and store performance insights
+     ![Dashboard](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/547f5480-fb2f-4acd-b6a7-8efe5b67723e)
+     <!-- [Explore the project](https://github.com/lunaSnowflake/Sales-Dashboard) -->
 
 - ##### Tableau Projects
 
@@ -209,7 +234,7 @@ Have extensive experience in the following tools and services:
     - Screenshot: ![Data Cleaning](screenshot-link)
     -
 
-#### Database Managment
+#### Databases & Big Data
 
 Have design and managed production scale databased extensive experience in web application frontends using the following set of technologies:
 
