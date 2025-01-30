@@ -129,6 +129,17 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
 
       ![Heart Disease Prediction Scores](assets/data-science/predictive-modeling/heart-prediction/output.png)
 
+  2.  [Disease Prediction from Sypmtoms](https://github.com/dawoodcheema/heart-disease-prediction.git)
+      A machine learning project that predicts diseases based on symptoms using various classification algorithms. The model takes a list of symptoms as input and predicts the most probable disease based on trained data.its feature includes. - Implementation of multiple ML algorithms: Naive Bayes, Decision Tree, Random Forest, Gradient Boosting - Supports two datasets:
+          - Kaggle Dataset (133 symptoms + prognosis)
+          - Columbia Dataset (Disease occurrences & symptoms)
+      <div >
+      <a href="https://github.com/dawoodcheema/heart-disease-prediction.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
+      <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
+      </div>
+      <div >
+      <br>
+
 <!-- - **Natural Lanuage Processing**
 
   - A cutting-edge object detection model built using YOLOv5.
