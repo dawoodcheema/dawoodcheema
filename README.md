@@ -203,19 +203,19 @@ Have extensive experience in the following tools and services:
 2. [Tableau Projects](#tableau-projects): Our Tableau dashboards provide powerful insights with dynamic filters, visuals, and easy-to-digest reports.
 3. [Excel Projects](#excel-projects): From financial modeling to data cleaning and forecasting, we use Excel's advanced features for in-depth data analysis.
 
-- ##### Power BI Projects
+#### Power BI Projects
 
-  1. [Sales Dashboard](https://github.com/dawoodcheema/sale-dashboard)
-     An interactive, real-time sales dashboard providing in-depth analysis, customer basket insights, and performance tracking.
-     **Features:**
+1. [Sales Dashboard](https://github.com/dawoodcheema/sale-dashboard)
+   An interactive, real-time sales dashboard providing in-depth analysis, customer basket insights, and performance tracking.
+   **Features:**
 
-     - Real-time sales analytics
-     - Customer & store basket analysis
-     - Interactive filter pane for seamless exploration
-     - Detailed product and store performance insights
+   - Real-time sales analytics
+   - Customer & store basket analysis
+   - Interactive filter pane for seamless exploration
+   - Detailed product and store performance insights
 
-     ![Dashboard](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/547f5480-fb2f-4acd-b6a7-8efe5b67723e)
-     <!-- [Explore the project](https://github.com/lunaSnowflake/Sales-Dashboard) -->
+   ![Dashboard](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/547f5480-fb2f-4acd-b6a7-8efe5b67723e)
+   <!-- [Explore the project](https://github.com/lunaSnowflake/Sales-Dashboard) -->
 
 - ##### Tableau Projects
 
