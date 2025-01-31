@@ -221,6 +221,7 @@ Have extensive experience in the following tools and services:
 
   1.  [UT Mart Sales Analytics Dashboard](https://github.com/DataFunctionInc/sales-analytics-utmart.git)
       The **UT Mart Sales Analytics Dashboard** provides an interactive view of sales, profit, and quantity sold across different product categories and regions. This dashboard is designed for business intelligence, helping stakeholders quickly assess business performance.
+
       **Features:**
 
       - Sales, profit, and quantity overview by time period.
@@ -232,6 +233,7 @@ Have extensive experience in the following tools and services:
 
   2.  [Amazon Shipping Analytics Dashboard](https://github.com/DataFunctionInc/amazon-shipping-analytics.git)
       The **Amazon Shipping Analytics Dashboard** enables logistics managers to track orders, shipping status, and shipment locations. It provides insights into monthly shipping statistics to help make data-driven decisions regarding logistics.
+
       **Features:**
 
       - Displays total orders processed and shipped.
