@@ -203,21 +203,22 @@ Have extensive experience in the following tools and services:
 2. [Tableau Projects](#tableau-projects): Our Tableau dashboards provide powerful insights with dynamic filters, visuals, and easy-to-digest reports.
 3. [Excel Projects](#excel-projects): From financial modeling to data cleaning and forecasting, we use Excel's advanced features for in-depth data analysis.
 
-#### Power BI Projects
+- #### Power BI Projects
 
-1. [Sales Dashboard](https://github.com/dawoodcheema/sale-dashboard)
-   An interactive, real-time sales dashboard providing in-depth analysis, customer basket insights, and performance tracking.
-   **Features:**
+  1. [Sales Dashboard](https://github.com/dawoodcheema/sale-dashboard)
+     An interactive, real-time sales dashboard providing in-depth analysis, customer basket insights, and performance tracking.
 
-   - Real-time sales analytics
-   - Customer & store basket analysis
-   - Interactive filter pane for seamless exploration
-   - Detailed product and store performance insights
+     **Features:**
 
-   ![Dashboard](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/547f5480-fb2f-4acd-b6a7-8efe5b67723e)
-   <!-- [Explore the project](https://github.com/lunaSnowflake/Sales-Dashboard) -->
+     - Real-time sales analytics
+     - Customer & store basket analysis
+     - Interactive filter pane for seamless exploration
+     - Detailed product and store performance insights
 
-- ##### Tableau Projects
+     ![Dashboard](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/547f5480-fb2f-4acd-b6a7-8efe5b67723e)
+     <!-- [Explore the project](https://github.com/lunaSnowflake/Sales-Dashboard) -->
+
+- #### Tableau Projects
 
   1.  [UT Mart Sales Analytics Dashboard](https://github.com/DataFunctionInc/sales-analytics-utmart.git)
       The **UT Mart Sales Analytics Dashboard** provides an interactive view of sales, profit, and quantity sold across different product categories and regions. This dashboard is designed for business intelligence, helping stakeholders quickly assess business performance.
