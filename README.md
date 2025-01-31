@@ -221,7 +221,6 @@ Have extensive experience in the following tools and services:
 
   1.  [UT Mart Sales Analytics Dashboard](https://github.com/DataFunctionInc/sales-analytics-utmart.git)
       The **UT Mart Sales Analytics Dashboard** provides an interactive view of sales, profit, and quantity sold across different product categories and regions. This dashboard is designed for business intelligence, helping stakeholders quickly assess business performance.
-
       **Features:**
 
       - Sales, profit, and quantity overview by time period.
@@ -252,8 +251,6 @@ Have extensive experience in the following tools and services:
       - Interactive filters for selecting different time.
 
       ![Tesla Stock Price Analytics Dashboard](https://raw.githubusercontent.com/DataFunctionInc/tesla-stock-price-analysis/main/Sceenshots/Tesla%20Analytics%20Image.PNG)
-
-      ![UT Mart Sales Analytics Dashboard](https://raw.githubusercontent.com/DataFunctionInc/sales-analytics-utmart/main/Screenshots/UT%20Mart%20Sales%20PNG.PNG)
 
 <!-- - ##### Excel Projects
   - **Sales Forecasting Model**
