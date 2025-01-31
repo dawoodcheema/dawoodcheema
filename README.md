@@ -129,12 +129,12 @@ Explore our featured projects categorized below to see how Data Function Inc. ca
 
       ![Heart Disease Prediction Scores](assets/data-science/predictive-modeling/heart-prediction/output.png)
 
-  2.  [Disease Prediction from Sypmtoms](https://github.com/dawoodcheema/heart-disease-prediction.git)
+  2.  [Disease Prediction from Symptoms](https://github.com/dawoodcheema/symptoms-disease-prediction.git)
       A machine learning project that predicts diseases based on symptoms using various classification algorithms. The model takes a list of symptoms as input and predicts the most probable disease based on trained data.its feature includes. - Implementation of multiple ML algorithms: Naive Bayes, Decision Tree, Random Forest, Gradient Boosting - Supports two datasets:
           - Kaggle Dataset (133 symptoms + prognosis)
           - Columbia Dataset (Disease occurrences & symptoms)
       <div >
-      <a href="https://github.com/dawoodcheema/heart-disease-prediction.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
+      <a href="https://github.com/dawoodcheema/symptoms-disease-prediction.git"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="Github" /></a>
       <a href="https://www.kaggle.com"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle" /></a>
       </div>
       <div >
@@ -207,47 +207,54 @@ Have extensive experience in the following tools and services:
 
   1. [Sales Dashboard](https://github.com/dawoodcheema/sale-dashboard)
      An interactive, real-time sales dashboard providing in-depth analysis, customer basket insights, and performance tracking.
+     **Features:**
 
-     ✅ Real-time sales analytics  
-     ✅ Customer & store basket analysis  
-     ✅ Interactive filter pane for seamless exploration  
-     ✅ Detailed product and store performance insights
+     - Real-time sales analytics
+     - Customer & store basket analysis
+     - Interactive filter pane for seamless exploration
+     - Detailed product and store performance insights
+
      ![Dashboard](https://github.com/lunaSnowflake/Sales-Dashboard/assets/110465395/547f5480-fb2f-4acd-b6a7-8efe5b67723e)
      <!-- [Explore the project](https://github.com/lunaSnowflake/Sales-Dashboard) -->
 
 - ##### Tableau Projects
 
-  - **Market Analysis Dashboard**
+  1.  [UT Mart Sales Analytics Dashboard](https://github.com/DataFunctionInc/sales-analytics-utmart.git)
+      The **UT Mart Sales Analytics Dashboard** provides an interactive view of sales, profit, and quantity sold across different product categories and regions. This dashboard is designed for business intelligence, helping stakeholders quickly assess business performance.
+      **Features:**
 
-    - I will add description here
-      <!-- Description: A comprehensive Tableau dashboard analyzing market trends and customer behavior. -->
-      <!-- - Features: Interactive filters, line and bar charts, geographic map visualizations.
-    - [View Project](link-to-project)
-    - Screenshot: ![Tableau Market Analysis](screenshot-link) -->
+      - Sales, profit, and quantity overview by time period.
+      - Category-wise and region-wise performance analysis.
+      - Profit calculation based on a 30% margin assumption.
+      - Interactive filters for deep data exploration.
 
-  - **Financial Summary Report**
-    - I will add description here
-    <!-- - Description: A Tableau workbook summarizing financial data for decision-makers.
-    - Features: Drill-down options, financial trend analysis, revenue breakdown by department.
-    - [View Project](link-to-project)
-    - Screenshot: ![Financial Report](screenshot-link) -->
+      ![UT Mart Sales Analytics Dashboard](https://raw.githubusercontent.com/DataFunctionInc/sales-analytics-utmart/main/Screenshots/UT%20Mart%20Sales%20PNG.PNG)
 
-- ##### Excel Projects
+  2.  [Amazon Shipping Analytics Dashboard](https://github.com/DataFunctionInc/amazon-shipping-analytics.git)
+      The **Amazon Shipping Analytics Dashboard** enables logistics managers to track orders, shipping status, and shipment locations. It provides insights into monthly shipping statistics to help make data-driven decisions regarding logistics.
+      **Features:**
 
+      - Displays total orders processed and shipped.
+      - Tracks outstanding orders by day and location.
+      - Interactive filters for viewing shipping data by different time periods.
+
+      ![Amazon Shipping Analytics Dashboard](https://raw.githubusercontent.com/DataFunctionInc/amazon-shipping-analytics/main/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG)
+
+  3.  [Sales Dashboard](https://github.com/DataFunctionInc/amazon-shipping-analytics)
+      The **Tesla Stock Price Analytics Dashboard** visualizes Tesla’s stock price trends, focusing on the last 3 months. This dashboard helps shareholders track stock performance and identify any emerging trends.
+      **Features:**
+
+      - Shows stock price fluctuations over time.
+      - Daily data updates for real-time stock monitoring.
+      - Interactive filters for selecting different time.
+
+      ![Tesla Stock Price Analytics Dashboard](https://raw.githubusercontent.com/DataFunctionInc/tesla-stock-price-analysis/main/Sceenshots/Tesla%20Analytics%20Image.PNG)
+
+      ![UT Mart Sales Analytics Dashboard](https://raw.githubusercontent.com/DataFunctionInc/sales-analytics-utmart/main/Screenshots/UT%20Mart%20Sales%20PNG.PNG)
+
+<!-- - ##### Excel Projects
   - **Sales Forecasting Model**
-
-    - I will add description here
-    <!-- - Description: An Excel model that uses historical sales data to forecast future trends.
-    - Features: Use of functions like **IF**, **VLOOKUP**, and **FORECAST** to predict sales.
-    - [View Project](link-to-project)
-    - Screenshot: ![Sales Forecasting](screenshot-link) -->
-
-  - **Data Cleaning and Transformation**
-    - Description: A collection of Excel tools and macros to clean and transform raw data into usable formats.
-    - Features: Data normalization, removal of duplicates, and advanced pivot table usage.
-    - [View Project](link-to-project)
-    - Screenshot: ![Data Cleaning](screenshot-link)
-    -
+    - I will add description here -->
 
 #### Databases & Big Data
 
