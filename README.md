@@ -240,8 +240,9 @@ Have extensive experience in the following tools and services:
 
       ![Amazon Shipping Analytics Dashboard](https://raw.githubusercontent.com/DataFunctionInc/amazon-shipping-analytics/main/Screenshots/Amazon%20Shipping%20Analytics%20Image.PNG)
 
-  3.  [Sales Dashboard](https://github.com/DataFunctionInc/amazon-shipping-analytics)
+  3.  [Tesla Stock Price Analytics Dashboard](https://github.com/DataFunctionInc/tesla-stock-price-analysis.git)
       The **Tesla Stock Price Analytics Dashboard** visualizes Tesla’s stock price trends, focusing on the last 3 months. This dashboard helps shareholders track stock performance and identify any emerging trends.
+
       **Features:**
 
       - Shows stock price fluctuations over time.
